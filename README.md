@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gcvx
-- 👀 I’m interested in building stuff and experimenting
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on life hacks
-- 📫 Reach me here
+- 👀 I’m interested in building stuff and experimenting.
+- Streamlit is quite cool for a lot of things
+- 🌱 I’m currently progressing on Python, getting a bit into Node and trying to integrate AI, with MCP and NLWeb
+
+
 
 <!---
 gcvx/gcvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
